@@ -5,6 +5,8 @@
 
 ESP32 with BLDC/servo joint, encoder and current logging; injected faults (bearing wear, overcurrent, encoder dropout), CAN diagnostic readout in Python, 8D report, Pareto and Weibull trend analysis on a public dataset.
 
+![Concept diagram](docs/concept_diagram.png)
+
 Personal project, not employer or customer work.
 
 *Code, photos and results: added as they are cleaned up.*

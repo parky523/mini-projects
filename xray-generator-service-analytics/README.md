@@ -5,6 +5,8 @@
 
 Python simulation of generator/tube service logs (simulated data only), anomaly detection (Isolation Forest, rolling z-score), error-code Pareto, Weibull component life, and an engineering change request with cost-benefit.
 
+![Concept diagram](docs/concept_diagram.png)
+
 Personal project, not employer or customer work.
 
 *Code, photos and results: added as they are cleaned up.*

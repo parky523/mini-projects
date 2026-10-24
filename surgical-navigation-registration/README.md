@@ -5,6 +5,8 @@
 
 Fiducial-based paired-point registration of a CT femur model in 3D Slicer. Fiducial and target registration error (FRE, TRE) vs reference-frame position and fiducial count, plus a short service checklist for a navigation chain.
 
+![Concept diagram](docs/concept_diagram.png)
+
 Personal project, not employer or customer work.
 
 *Code, photos and results: added as they are cleaned up.*

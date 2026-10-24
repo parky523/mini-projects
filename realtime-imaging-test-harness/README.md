@@ -5,6 +5,8 @@
 
 Gherkin/pytest-bdd tests around a real-time video pipeline, synthetic ground-truth video generator, latency p50/p99 and throughput tests, two-node ZeroMQ/Docker set-up, GitHub Actions CI, requirement-to-test traceability.
 
+![Concept diagram](docs/concept_diagram.png)
+
 Personal project, not employer or customer work.
 
 *Code, photos and results: added as they are cleaned up.*
